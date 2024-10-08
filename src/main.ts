@@ -7,6 +7,9 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <h1>강민재 행정실 쿠데타</h1></h1>
     <p>바보</p>
     <p>199석 강민재 특검하라</p>
+    <h1>강민재 행정실 쿠데타?</h1></h1>
+    <p>?????</p>
+    <p>선린 특검하라</p>
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
