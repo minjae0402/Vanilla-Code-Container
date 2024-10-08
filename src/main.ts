@@ -3,7 +3,7 @@ import { setupCounter } from './counter.ts';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
-    <h1>이은교 특검 2222222</h1></h1>
+    <h1>이은교 특검 111112222222</h1></h1>
     <h1>강민재 행정실 쿠데타</h1></h1>
     <p>?????</p>
     <div class="card">
